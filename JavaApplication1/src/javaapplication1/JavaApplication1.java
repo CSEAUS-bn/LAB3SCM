@@ -25,6 +25,7 @@ public class JavaApplication1 {
     
     public static void addFeatureA()
     {
-        System.out.println("Adding a feature A. Here is the BUG");
+        System.out.println("Bug fixed");
+        
     }
 }
