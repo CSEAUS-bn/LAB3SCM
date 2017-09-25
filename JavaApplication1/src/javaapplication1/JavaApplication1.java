@@ -17,5 +17,8 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    public static void addFeatureB()
+    {
+        System.out.println("Adding a feature B. Here is the BUG");
+    }
 }
