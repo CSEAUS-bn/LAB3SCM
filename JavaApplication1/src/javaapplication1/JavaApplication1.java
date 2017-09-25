@@ -16,9 +16,15 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello world");
     }
     public static void addFeatureB()
     {
         System.out.println("Adding a feature B. Here is the BUG");
+    }
+    
+    public static void addFeatureA()
+    {
+        System.out.println("Adding a feature A. Here is the BUG");
     }
 }
